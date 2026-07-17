@@ -1,0 +1,46 @@
+[2026-07-17 12:07:54] Running ssh_hardening.sh
+[2026-07-17 12:07:54] Running firewall.sh
+[2026-07-17 12:07:55] Running selinux.sh
+[2026-07-17 12:07:55] Running auditd.sh
+[2026-07-17 12:07:55] Running password_policy.sh
+[2026-07-17 12:07:55] Running permissions.sh
+[2026-07-17 12:07:55] Running updates.sh
+[2026-07-17 12:07:55] Report generated: /home/sajid/Projects/linux-hardening-compliance-toolkit/reports/compliance_report.html
+[2026-07-17 12:10:01] Running ssh_hardening.sh
+[2026-07-17 12:10:01] Running firewall.sh
+[2026-07-17 12:10:02] Running selinux.sh
+[2026-07-17 12:10:02] Running auditd.sh
+[2026-07-17 12:10:02] Running password_policy.sh
+[2026-07-17 12:10:02] Running permissions.sh
+[2026-07-17 12:10:02] Running updates.sh
+[2026-07-17 12:10:02] Report generated: /home/sajid/Projects/linux-hardening-compliance-toolkit/reports/compliance_report.html
+[2026-07-17 12:12:36] Running ssh_hardening.sh
+[2026-07-17 12:12:36] Running firewall.sh
+[2026-07-17 12:12:36] Running selinux.sh
+[2026-07-17 12:12:36] Running auditd.sh
+[2026-07-17 12:12:36] Running password_policy.sh
+[2026-07-17 12:12:36] Running permissions.sh
+[2026-07-17 12:16:06] Running ssh_hardening.sh
+[2026-07-17 12:16:06] Running firewall.sh
+[2026-07-17 12:16:07] Running selinux.sh
+[2026-07-17 12:16:07] Running auditd.sh
+[2026-07-17 12:16:07] Running password_policy.sh
+[2026-07-17 12:16:07] Running permissions.sh
+[2026-07-17 12:16:08] Running updates.sh
+[2026-07-17 12:16:09] Report generated: /home/sajid/Projects/linux-hardening-compliance-toolkit/reports/compliance_report.html
+[2026-07-17 12:19:26] Running ssh_hardening.sh
+[2026-07-17 12:19:26] Running firewall.sh
+[2026-07-17 12:19:26] Running selinux.sh
+[2026-07-17 12:19:26] Running auditd.sh
+[2026-07-17 12:19:26] Running password_policy.sh
+[2026-07-17 12:19:26] Running permissions.sh
+[2026-07-17 12:19:26] Running updates.sh
+[2026-07-17 12:19:27] Report generated: /home/sajid/Projects/linux-hardening-compliance-toolkit/reports/compliance_report.html
+[2026-07-17 12:20:58] Running ssh_hardening.sh
+[2026-07-17 12:20:58] Running firewall.sh
+[2026-07-17 12:20:59] Running selinux.sh
+[2026-07-17 12:20:59] Running auditd.sh
+[2026-07-17 12:20:59] Running password_policy.sh
+[2026-07-17 12:20:59] Running permissions.sh
+[2026-07-17 12:21:02] Running updates.sh
+[2026-07-17 12:21:05] Report generated: /home/sajid/Projects/linux-hardening-compliance-toolkit/reports/compliance_report.html
