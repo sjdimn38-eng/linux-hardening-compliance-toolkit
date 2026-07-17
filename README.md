@@ -1,6 +1,7 @@
 # Linux Hardening & Compliance Toolkit
 
-A Bash-based security hardening and compliance assessment toolkit for Linux systems.
+Automated Linux security hardening and compliance assessment toolkit built with Bash. Generates terminal dashboards and HTML audit reports aligned with CIS and enterprise security best practices.
+
 # Linux Hardening & Compliance Toolkit
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-green)
